@@ -1,1 +1,2 @@
-# SiropTime.github.io
+# SiropTime - Maltsev Timofey
+## Backend, Android, Gamedev developer
